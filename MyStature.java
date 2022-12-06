@@ -5,7 +5,7 @@ public class MyStature {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
-        System.out.println("Введите желаемою высоты вашей ели:");
+        System.out.println("Введите желаемую высоту вашей ели:");
         int treeHeight = in.nextInt();
 
         for (int i = 0; i <= treeHeight; i++) {
